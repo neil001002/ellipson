@@ -1,0 +1,48 @@
+#root {
+  text-align: center;
+  font-family: "Kanit", sans-serif !important;
+}
+
+ul li {
+  list-style: none;
+}
+
+body {
+  background: rgb(34, 32, 78);
+  background: linear-gradient(
+    90deg,
+    rgba(34, 32, 78, 1) 0%,
+    rgba(69, 81, 175, 1) 65%
+  );
+  color: white !important;
+}
+
+.nav {
+  background: transparent;
+}
+.navbar-collapse {
+  flex-grow: 0 !important;
+}
+
+.nav-link {
+  margin-left: 20px;
+  color: white !important;
+  font-size: 0.9rem !important;
+  font-weight: 300 !important;
+}
+
+.nav-brand {
+  color: white !important;
+  font-weight: 600;
+}
+
+.Btn {
+  border-radius: 25px !important;
+  background-color: transparent !important;
+}
+
+.Btn2 {
+  border-radius: 25px !important;
+  background-color: blueviolet !important;
+  border: 0px !important;
+}
