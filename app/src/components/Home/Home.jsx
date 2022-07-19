@@ -25,9 +25,9 @@ const Home = () => {
 
       <section>
         <div>
-          <h1>Some Text here</h1>
+          <h1 style={{ fontSize: "8rem" }}>Some Text here</h1>
         </div>
-        <Button className="Btn2">Create</Button>
+        <Button className="Btn2 ">Create</Button>
       </section>
     </div>
   );
